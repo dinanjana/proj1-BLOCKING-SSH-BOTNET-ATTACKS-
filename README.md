@@ -12,6 +12,10 @@ Additional options this tool supports are
 Please change links for relevent file locations in below classes
                 SSHBotBlocker - Add log file location
 GO TO SSHBotBlocker folder.That is the correct one
+
+Uses maxmind's GeoLiteCity database and their API
+
+
                 
 
                 
